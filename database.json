@@ -2,12 +2,8 @@
   "allowedIps": ["188.166.182.45"],
   "users": [
     {
-      "username": "fall",
-      "password": "fall123"
-    },
-    {
-      "username": "ella",
-      "password": "ella123"
+      "username": "Ham-Bot",
+      "password": "1sampai8"
     }
   ]
 }
